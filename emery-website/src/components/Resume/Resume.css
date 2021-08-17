@@ -16,6 +16,18 @@
     margin-left: 715px;
     margin-right: auto;
     margin-bottom: 50px;
+    background-color: white;
+    border: 2px solid #950952;
+    border-radius: 5px;;
+    color: #950952;
+    padding: 10px 20px;
+    font-size: 12pt;
+    cursor: pointer;
+}
+
+.downloadButton:hover {
+    background-color: #950952;
+    color: white;
 }
 
 .resumeText {

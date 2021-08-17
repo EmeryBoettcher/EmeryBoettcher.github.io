@@ -17,9 +17,9 @@ const ProjectsPage = () => {
                             <h3>emeryboettcher.dev</h3>
                         </div>
                         <div className="projectsText">
-                            <p1>This website is my first publicly displayed front-end project. I built it using ReactJS. As my portfolio grows and my creative vision evolves I plan to continue to update it.</p1>
+                            <p1>This website is my first publicly displayed front-end project. I built it using ReactJS. I plan to continue to update it as my portfolio grows and my creative vision evolves.</p1>
                         </div>
-                            <a className="projectsButton" href="https://github.com/eboettch-trinity/EmeryBoettcher.github.io/tree/main/emery-website">GITHUB</a>
+                            <a href="https://github.com/eboettch-trinity/EmeryBoettcher.github.io/tree/main/emery-website"><button className="projectsButton">GITHUB</button></a>
                         </div>
                 </div>
             </div>

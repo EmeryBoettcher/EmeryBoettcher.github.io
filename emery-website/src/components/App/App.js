@@ -9,16 +9,20 @@ import ProfilePic from '../ProfilePic/ProfilePic';
 function App() {
   return ( 
     <div> 
-      <div className="Background">
-        <LinksBar />
-        <div className="title">
-          <h2>About Me</h2>
+      <div className="background">
+        <div className="name">
+          <br></br>
+          Emery Boettcher
         </div>
-        <div className="Box align"> 
+        <div className="title">
+          About Me
+        </div>
+        <div className="box align"> 
           <ProfilePic />
           <AboutPage />
         </div>
-        <ProjectsPage />
+        <LinksBar />
+      <ProjectsPage />
       <Resume />
       </div>
     </div>
