@@ -13,10 +13,10 @@ import SportsBaseballIcon from '@material-ui/icons/SportsBaseball';
 
 const AboutPage = () => {
     return (
-        <div className="flex flex-col py-24">
-            <div className="flex flex-row flex-wrap m-auto w-full pl-14 sm:pl-72 pr-3 sm:pr-28 sm:-mt-5">
-                <div className="flex flex-col py-5">
-                    <img className= "img" src={headshot} alt="Headshot"/>
+        <div>
+            <div>
+                <div>
+                    <img className="aboutMeImg" src={headshot} alt="Headshot"/>
                 </div>
                 <br></br>
                 <div className="text">
@@ -29,6 +29,7 @@ const AboutPage = () => {
                         <li className="pb-1"> <LocalFloristOutlinedIcon/> Plant enthusiest</li>
                         <li> <MusicNoteIcon/>Music maven</li>
                     </div>
+                    <br></br>
                     <div>
                         One of the best decisions I have ever made was taking a computer science class on a whim my freshman year of college. Computer science combines 
                         my love of learning new things, logic games, problem solving, art, and creativity. This combination immediately drew me in and I changed 

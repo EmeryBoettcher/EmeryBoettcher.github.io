@@ -1,0 +1,33 @@
+.projectsTitle {
+    position: relative;
+    margin-left: 275px;
+    margin-top: 480px;
+    color: #950952;
+}
+
+.projectsButton {
+    margin-left: 715px;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.projectsText {
+    position: relative;
+    margin-left: 490px;
+    margin-right: 500px;
+    color: #950952;
+}
+
+.projectsImg {
+    width: 550px;
+    height: auto;
+    position: relative;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #950952;
+    border-radius: 12px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 490px;
+    margin-right: auto;
+}

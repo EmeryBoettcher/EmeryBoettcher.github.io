@@ -1,8 +1,26 @@
-.img {
-    width: 400px;
+.resumeImg {
+    width: 550px;
     height: auto;
-    position: fixed;
+    position: relative;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #950952;
     border-radius: 12px;
-    left: 300px;
-    bottom: 0 px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 490px;
+    margin-right: auto;
+}
+
+.downloadButton {
+    margin-left: 715px;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.resumeText {
+    position: relative;
+    margin-left: 275px;
+    margin-top: 50px;
+    color: #950952;
 }

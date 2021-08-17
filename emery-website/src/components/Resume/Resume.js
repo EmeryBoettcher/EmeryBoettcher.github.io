@@ -1,20 +1,21 @@
 import React from 'react';
-//import Button from '@material-ui/core/Button';
+import './Resume.css';
 import imgPath from "../../images/EmeryBoettcher_Resume.png";
 import pdfPath from "../../images/Resume 7_28_21.pdf";
 
 
 const ResumePage = () => {
   return (
-      <div className="flex flex-row flex-wrap m-auto pb-10">
-          <div className="page-heading">
-              Resume
+      <div>
+          <div className="resumeText">
+              <h2>Resume</h2>
           </div>
-          <div className="flex flex-row justify-center m-auto pl-4 sm:pl-0 pr-3">
-              <div className="flex flex-col items-center space-y-3 pt-7 pl-10 sm:pl-0">
-                  <img className="img" src={imgPath} alt="Screenshot of resume"/>
+          <div>
+              <div>
+                  <img className="resumeImg" src={imgPath} alt="Screenshot of resume"/>
+                  <br></br>
                   <a href={pdfPath} download="EmeryBoettcher_Resume">
-                      <button className="button">DOWNLOAD</button>
+                      <button className="downloadButton">DOWNLOAD</button>
                   </a>
               </div>
           </div>
