@@ -10,7 +10,7 @@ const LinksBar = () => {
         padding: 10,
         bottom: 0,
         left: 0,
-        
+        flexDirection: 'reverse-column',
     }
      
     return (

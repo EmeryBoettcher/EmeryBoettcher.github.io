@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import LinksBar from '../LinksBar/Links';
-//import Resume from '../Resume/Resume';
+import AboutPage from '../AboutMe/AboutMe';
+import Resume from '../Resume/Resume';
 
 function App() {
   return ( 
@@ -9,9 +10,9 @@ function App() {
       <div className="Background">
         <LinksBar />
         <div className="Box"> 
-          Content
+          <AboutPage />
         </div>
-      
+      <Resume />
       </div>
     </div>
   )
