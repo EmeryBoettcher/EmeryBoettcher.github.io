@@ -1,0 +1,6 @@
+.linksBar {
+    color: '#950952';
+    position:  'fixed';
+    padding: 10;
+    flex-direction: column;
+}

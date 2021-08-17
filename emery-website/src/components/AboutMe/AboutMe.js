@@ -1,4 +1,5 @@
 import React from "react"
+import './AboutMe.css'
 //import SpacerColumn from "../components/SpacerColumn"
 //import SideSpacerColumn from "../components/SideSpacerColumn"
 import headshot from "../../images/IMG-3018-Facetune-10-08-2021-14-28-22.jpg"
@@ -13,14 +14,12 @@ import SportsBaseballIcon from '@material-ui/icons/SportsBaseball';
 const AboutPage = () => {
     return (
         <div className="flex flex-col py-24">
-            <div className="page-heading text-left pl-14 sm:pl-28">
-                About Me
-            </div>
             <div className="flex flex-row flex-wrap m-auto w-full pl-14 sm:pl-72 pr-3 sm:pr-28 sm:-mt-5">
                 <div className="flex flex-col py-5">
-                    <img className= "self-center rounded-lg max-h-500-px" src={headshot} alt="Headshot"/>
+                    <img className= "img" src={headshot} alt="Headshot"/>
                 </div>
-                <div className="flex flex-col flex-auto w-96 space-y-7 py-5">
+                <br></br>
+                <div className="text">
                     <div style={{listStyle: 'none'}}>
                         <li className="pb-1"> <LaptopChromebookOutlinedIcon/> Computer science major</li>
                         <li className="pb-1"> <SchoolOutlinedIcon/> Trinity University class of 2023</li>

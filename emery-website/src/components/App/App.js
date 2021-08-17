@@ -9,6 +9,9 @@ function App() {
     <div className="App"> 
       <div className="Background">
         <LinksBar />
+        <div className="title" style={{ color: '#950952'}}>
+          <h2>About Me</h2>
+          </div>
         <div className="Box"> 
           <AboutPage />
         </div>
