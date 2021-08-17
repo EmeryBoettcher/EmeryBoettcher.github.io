@@ -2,7 +2,6 @@ import React from "react"
 import './AboutMe.css'
 //import SpacerColumn from "../components/SpacerColumn"
 //import SideSpacerColumn from "../components/SideSpacerColumn"
-import headshot from "../../images/IMG-3018-Facetune-10-08-2021-14-28-22.jpg"
 import SchoolOutlinedIcon from '@material-ui/icons/SchoolOutlined'
 import MusicNoteIcon from '@material-ui/icons/MusicNote';
 import LocalFloristOutlinedIcon from '@material-ui/icons/LocalFloristOutlined'
@@ -15,10 +14,6 @@ const AboutPage = () => {
     return (
         <div>
             <div>
-                <div>
-                    <img className="aboutMeImg" src={headshot} alt="Headshot"/>
-                </div>
-                <br></br>
                 <div className="text">
                     <div style={{listStyle: 'none'}}>
                         <li className="pb-1"> <LaptopChromebookOutlinedIcon/> Computer science major</li>

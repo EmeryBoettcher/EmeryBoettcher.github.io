@@ -1,12 +1,6 @@
-.aboutMeImg {
-    width: auto;
-    position: relative;
-    height: 560px;
-    padding: 20px;
-    border-radius: 12px;
-}
 .text {
     text-align: left;
-    margin-left: 525px;
+    margin-left: 0px;
+    margin-top: 20px;
     color: #950952;
 }
