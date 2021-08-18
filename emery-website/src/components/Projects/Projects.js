@@ -1,7 +1,7 @@
 import React from "react"
 //import { Link } from "react-router-dom"
 import './Projects.css'
-import websiteSS from "../../images/Screenshot 2021-08-17 14.29.51.png"
+import websiteSS from "../../images/Screenshot 2021-08-17 23.36.25.png"
 
 
 const ProjectsPage = () => {
