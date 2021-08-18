@@ -14,14 +14,21 @@ const AboutPage = () => {
     return (
         <div>
             <div>
+                <div className="intro">
+                    Hello everybody, I'm
+                </div>
+                
+                <div className="name">
+                    Emery Boettcher
+                </div>
                 <div className="text">
                     <div style={{listStyle: 'none'}}>
-                        <li className="pb-1"> <LaptopChromebookOutlinedIcon/> Computer science major</li>
-                        <li className="pb-1"> <SchoolOutlinedIcon/> Trinity University class of 2023</li>
-                        <li className="pb-1"> <StarRateIcon/> Texas native</li>
-                        <li className="pb-1"> <SportsBaseballIcon/> Collegiate softball pitcher</li>
-                        <li className="pb-1"> <LocalLibraryOutlinedIcon/> Book lover</li>
-                        <li className="pb-1"> <LocalFloristOutlinedIcon/> Plant enthusiest</li>
+                        <li> <LaptopChromebookOutlinedIcon/> Computer science major</li>
+                        <li> <SchoolOutlinedIcon/> Trinity University class of 2023</li>
+                        <li> <StarRateIcon/> Texas native</li>
+                        <li> <SportsBaseballIcon/> Collegiate softball pitcher</li>
+                        <li> <LocalLibraryOutlinedIcon/> Book lover</li>
+                        <li> <LocalFloristOutlinedIcon/> Plant enthusiest</li>
                         <li> <MusicNoteIcon/>Music maven</li>
                     </div>
                     <br></br>

@@ -5,15 +5,12 @@ import AboutPage from '../AboutMe/AboutMe';
 import Resume from '../Resume/Resume';
 import ProjectsPage from '../Projects/Projects';
 import ProfilePic from '../ProfilePic/ProfilePic';
+import ArrowDownwardIcon from '@material-ui/icons/ArrowDownward';
 
 function App() {
   return ( 
     <div> 
       <div className="background">
-        <div className="name">
-          <br></br>
-          Emery Boettcher
-        </div>
         <div className="title">
           About Me
         </div>
@@ -21,9 +18,12 @@ function App() {
           <ProfilePic />
           <AboutPage />
         </div>
+        <div className="icon">
+          <ArrowDownwardIcon style={{fontSize: '35px'}}/>
+        </div>
         <LinksBar />
-      <ProjectsPage />
-      <Resume />
+        <ProjectsPage />
+        <Resume />
       </div>
     </div>
   )

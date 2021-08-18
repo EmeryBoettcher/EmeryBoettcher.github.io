@@ -3,4 +3,22 @@
     margin-left: 0px;
     margin-top: 20px;
     color: #950952;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.intro {
+    text-align: left;
+    margin-top: 20px;
+    color: #950952;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+}
+
+.name { 
+    text-align: left;
+    color: #950952;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 34px;
 }
