@@ -5,7 +5,7 @@ import './ProfilePic.css'
 const ProfilePic = () => {
     return (
         <div>
-            <img className="profileImg" src={headshot} alt="Headshot"/>
+            <img className="profileImg" style={{borderRadius: '12px'}} src={headshot} alt="Headshot"/>
         </div>
     )
 }

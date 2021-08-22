@@ -1,7 +1,5 @@
 import React from "react"
 import './AboutMe.css'
-//import SpacerColumn from "../components/SpacerColumn"
-//import SideSpacerColumn from "../components/SideSpacerColumn"
 import SchoolOutlinedIcon from '@material-ui/icons/SchoolOutlined'
 import MusicNoteIcon from '@material-ui/icons/MusicNote';
 import LocalFloristOutlinedIcon from '@material-ui/icons/LocalFloristOutlined'
@@ -28,7 +26,7 @@ const AboutPage = () => {
                         <li> <StarRateIcon/> Texas native</li>
                         <li> <SportsBaseballIcon/> Collegiate softball pitcher</li>
                         <li> <LocalLibraryOutlinedIcon/> Book lover</li>
-                        <li> <LocalFloristOutlinedIcon/> Plant enthusiest</li>
+                        <li> <LocalFloristOutlinedIcon/> Plant enthusiast</li>
                         <li> <MusicNoteIcon/>Music maven</li>
                     </div>
                     <br></br>
