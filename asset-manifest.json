@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8af93ea.chunk.css",
+    "main.js": "/static/js/main.e20ca029.chunk.js",
+    "main.js.map": "/static/js/main.e20ca029.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8f4a74d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8f4a74d.js.map",
+    "static/js/2.e297e2c5.chunk.js": "/static/js/2.e297e2c5.chunk.js",
+    "static/js/2.e297e2c5.chunk.js.map": "/static/js/2.e297e2c5.chunk.js.map",
+    "static/js/3.46383797.chunk.js": "/static/js/3.46383797.chunk.js",
+    "static/js/3.46383797.chunk.js.map": "/static/js/3.46383797.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b8af93ea.chunk.css.map": "/static/css/main.b8af93ea.chunk.css.map",
+    "static/js/2.e297e2c5.chunk.js.LICENSE.txt": "/static/js/2.e297e2c5.chunk.js.LICENSE.txt",
+    "static/media/EmeryBoettcher_Resume.8460710d.png": "/static/media/EmeryBoettcher_Resume.8460710d.png",
+    "static/media/IMG-3018-Facetune-10-08-2021-14-28-22.ba06043a.jpg": "/static/media/IMG-3018-Facetune-10-08-2021-14-28-22.ba06043a.jpg",
+    "static/media/Resume 7_28_21.fb6b11c0.pdf": "/static/media/Resume 7_28_21.fb6b11c0.pdf",
+    "static/media/Screenshot 2021-08-17 23.36.25.7e5f5f61.png": "/static/media/Screenshot 2021-08-17 23.36.25.7e5f5f61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8f4a74d.js",
+    "static/js/2.e297e2c5.chunk.js",
+    "static/css/main.b8af93ea.chunk.css",
+    "static/js/main.e20ca029.chunk.js"
+  ]
+}
