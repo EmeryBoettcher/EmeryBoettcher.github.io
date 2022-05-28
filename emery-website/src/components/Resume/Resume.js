@@ -1,7 +1,7 @@
 import React from 'react';
 import './Resume.css';
-import imgPath from "../../images/EmeryBoettcher_Resume.png";
-import pdfPath from "../../images/Resume 7_28_21.pdf";
+import imgPath from "../../images/Emery_Boettcher_Resume-1.png";
+import pdfPath from "../../images/Emery_Boettcher_Resume.pdf";
 
 
 const ResumePage = () => {
