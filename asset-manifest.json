@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b8af93ea.chunk.css",
-    "main.js": "/static/js/main.c79b3e48.chunk.js",
-    "main.js.map": "/static/js/main.c79b3e48.chunk.js.map",
+    "main.js": "/static/js/main.aa0c53ee.chunk.js",
+    "main.js.map": "/static/js/main.aa0c53ee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8f4a74d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8f4a74d.js.map",
     "static/js/2.e297e2c5.chunk.js": "/static/js/2.e297e2c5.chunk.js",
@@ -12,15 +12,15 @@
     "index.html": "/index.html",
     "static/css/main.b8af93ea.chunk.css.map": "/static/css/main.b8af93ea.chunk.css.map",
     "static/js/2.e297e2c5.chunk.js.LICENSE.txt": "/static/js/2.e297e2c5.chunk.js.LICENSE.txt",
-    "static/media/EmeryBoettcher_Resume.77a03c32.png": "/static/media/EmeryBoettcher_Resume.77a03c32.png",
+    "static/media/Emery_Boettcher_Resume-1.69ff0b56.png": "/static/media/Emery_Boettcher_Resume-1.69ff0b56.png",
+    "static/media/Emery_Boettcher_Resume.3ab83a6e.pdf": "/static/media/Emery_Boettcher_Resume.3ab83a6e.pdf",
     "static/media/IMG-3018-Facetune-10-08-2021-14-28-22.ba06043a.jpg": "/static/media/IMG-3018-Facetune-10-08-2021-14-28-22.ba06043a.jpg",
-    "static/media/Resume 7_28_21.fb6b11c0.pdf": "/static/media/Resume 7_28_21.fb6b11c0.pdf",
     "static/media/Screenshot 2021-08-17 23.36.25.7e5f5f61.png": "/static/media/Screenshot 2021-08-17 23.36.25.7e5f5f61.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8f4a74d.js",
     "static/js/2.e297e2c5.chunk.js",
     "static/css/main.b8af93ea.chunk.css",
-    "static/js/main.c79b3e48.chunk.js"
+    "static/js/main.aa0c53ee.chunk.js"
   ]
 }
